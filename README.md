@@ -15,7 +15,17 @@ One of the hypotheses under consideration is that `churn` is driven by the `cust
 The Lead Data Scientist (LDS) held an initial team meeting to discuss various hypotheses, including churn due to price sensitivity. 
 After discussion with your team, you have been asked to go deeper on the hypothesis that the churn is driven by the customers’ price sensitivities. 
 
+## Work Breakdown
 
+* ### Task-1:
+  Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. 
+  Communicate thoughts and findings in an email to LDS, focusing on the potential data that is required from the client and analytical models you would use to test such a hypothesis.
+
+* ### Task-2:
+  Perform some exploratory data analysis. Look into the data types, data statistics, and identify any missing data or null values, and how often they appear in the data.<br>
+  Visualize specific parameters as well as variable distributions.<br>
+  Clean the data – address missing values, duplicates, data type conversions, transformations, and multicolinearity, as well as outliers.
+  
 
 
 ## Copyright
