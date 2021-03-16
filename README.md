@@ -21,12 +21,22 @@ After discussion with your team, you have been asked to go deeper on the hypothe
   Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. 
   Communicate thoughts and findings in an email to LDS, focusing on the potential data that is required from the client and analytical models you would use to test such a hypothesis.
 
-* ### Task-2:
+* ### [Task-2](Task-2/Task_2_EDA_and_Data_Cleaning.ipynb):
   Perform some exploratory data analysis. Look into the data types, data statistics, and identify any missing data or null values, and how often they appear in the data.<br>
   Visualize specific parameters as well as variable distributions.<br>
-  Clean the data – address missing values, duplicates, data type conversions, transformations, and multicolinearity, as well as outliers.
+  Clean the data – address missing values, duplicates, data type conversions, transformations, and multicolinearity, as well as outliers.<br>
+  [Data Columns description](Task-2/data-description.pdf) can be found here.
+  
+* ### [Task-3]():
+  Feature Engineering: Brainstorm and build out features to uncover signals in the data that could inform the churn model.
+
+* ### [Task-4]():
+  Build churn model(s) to try to predict the churn probability of any customer, taking into account all the explanatory variables constructed in the feature engineering process.<br>
+  Evaluate the selected model, using a holdout set, and with metrics sensible for this business case.<br>
+  Interpret the results and use them to formulate your answers to the client’s hypotheses and questions
   
 
 
+
 ## Copyright
-![Forage](Images/Forage_Logo_Icon.png) ©. All Rights Reserved.
+![Forage](Images/Forage_Logo_Icon.png) © 2020. All Rights Reserved.
