@@ -27,7 +27,7 @@ After discussion with your team, you have been asked to go deeper on the hypothe
   Clean the data – address missing values, duplicates, data type conversions, transformations, and multicolinearity, as well as outliers.<br>
   [Data Columns description](Task-2/data-description.pdf) can be found here.
   
-* ### [Task-3]():
+* ### [Task-3](Task-3/Task_3_Feature_Engineering.ipynb):
   Feature Engineering: Brainstorm and build out features to uncover signals in the data that could inform the churn model.
 
 * ### [Task-4]():
